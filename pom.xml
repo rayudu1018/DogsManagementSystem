@@ -49,19 +49,10 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
-			<scope>test</scope>
-		</dependency>
-		<dependency>
-			<groupId>com.rayuduclasses</groupId>
-			<artifactId>DogDemo</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
+			<scope>test</scope>	
 		</dependency>
 		
-		<dependency>
-			<groupId>com.rayuduclasses</groupId>
-			<artifactId>ParametersDemo</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
+		
 	</dependencies>
 
 	<build>
